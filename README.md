@@ -7,4 +7,7 @@
    <td><a href="https://github.com/Narutocc/functional-unit/issues/3"/>jQuery实现页面元素延迟消失</td>
    <td><a href="https://github.com/Narutocc/functional-unit/issues/4"/>Highcharts——SVG图表</td>
   </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/functional-unit/issues/5"/>侧边导航菜单</td>
+  </tr>
 </table>
