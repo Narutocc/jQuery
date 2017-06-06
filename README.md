@@ -8,6 +8,6 @@
    <td><a href="https://github.com/Narutocc/functional-unit/issues/4"/>Highcharts——SVG图表</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/Narutocc/functional-unit/issues/5"/>侧边导航菜单</td>
+   <td><a href="https://github.com/Narutocc/functional-unit/issues/5"/>侧边导航楼梯</td>
   </tr>
 </table>
