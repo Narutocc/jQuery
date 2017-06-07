@@ -9,5 +9,6 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/functional-unit/issues/5"/>侧边导航楼梯</td>
+   <td><a href="https://github.com/Narutocc/functional-unit/issues/6"/>jq选中元素（table）</td>
   </tr>
 </table>
