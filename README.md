@@ -13,5 +13,6 @@
   </tr>
  <tr>
    <td><a href="https://github.com/Narutocc/functional-unit/issues/7"/>文件上传</td>
+   <td><a href="https://github.com/Narutocc/functional-unit/issues/8"/>jQuey.ajaxSetup()</td>
   </tr>
 </table>
