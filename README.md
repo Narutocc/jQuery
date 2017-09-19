@@ -16,3 +16,10 @@
    <td><a href="https://github.com/Narutocc/functional-unit/issues/8"/>jQuey.ajaxSetup()</td>
   </tr>
 </table>
+<div>插件</div>
+<table>
+  <tr>
+    <td><a href="https://github.com/Narutocc/text-share/issues/38">jquery.cookie.js</a></td>
+    <td><a href="https://github.com/Narutocc/text-share/issues/39">App.js</a></td>
+  </tr>
+</table>
