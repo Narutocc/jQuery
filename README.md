@@ -22,4 +22,7 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/38">jquery.cookie.js</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/39">App.js</a></td>
   </tr>
+ <tr>
+    <td><a href="https://github.com/Narutocc/jQuery/issues/9">Moment.js</a></td>
+  </tr>
 </table>
