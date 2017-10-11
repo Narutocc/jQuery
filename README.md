@@ -15,6 +15,9 @@
    <td><a href="https://github.com/Narutocc/functional-unit/issues/7"/>文件上传</td>
    <td><a href="https://github.com/Narutocc/functional-unit/issues/8"/>jQuey.ajaxSetup()</td>
   </tr>
+ <tr>
+   <td><a href="https://github.com/Narutocc/functional-unit/issues/12"/>jq实现树状菜单</td>
+  </tr>
 </table>
 <div>插件</div>
 <table>
