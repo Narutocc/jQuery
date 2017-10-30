@@ -21,7 +21,7 @@
   </tr>
  <tr>
    <td><a href="https://github.com/Narutocc/functional-unit/issues/14"/>下拉筛选</td>
-  <td><a href="https://github.com/Narutocc/functional-unit/issues/13"/>数组自定义排序</td>
+  <td><a href="https://github.com/Narutocc/functional-unit/issues/15"/>排序</td>
   </tr>
 </table>
 <div>插件</div>
