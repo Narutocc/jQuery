@@ -35,4 +35,7 @@
     <td><a href="https://github.com/Narutocc/jQuery/issues/9">Moment.js</a></td>
     <td><a href="https://github.com/Narutocc/functional-unit/issues/16"/>daterangepicker</td>
   </tr>
+ <tr>
+    <td><a href="https://github.com/Narutocc/jQuery/issues/17">[jQueryUI] - Chosen</a></td>
+  </tr>
 </table>
