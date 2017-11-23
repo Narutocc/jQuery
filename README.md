@@ -40,5 +40,6 @@
   </tr>
  <tr>
     <td><a href="https://github.com/Narutocc/jQuery/issues/17">[jQueryUI] - Chosen</a></td>
+    <td><a href="https://github.com/Narutocc/functional-unit/issues/19"/>js 事件冒泡与事件捕获</td>
   </tr>
 </table>
