@@ -49,6 +49,6 @@
     <td><a href="https://github.com/Narutocc/functional-unit/issues/20"/>作用域问题</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Narutocc/functional-unit/issues/19"/>ajax获取的数据传递到ajax函数以外</td>
+    <td><a href="https://github.com/Narutocc/jQuery/issues/21"/>ajax获取的数据传递到ajax函数以外</td>
   </tr>
 </table>
