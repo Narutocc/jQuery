@@ -48,4 +48,7 @@
     <td><a href="https://github.com/Narutocc/functional-unit/issues/19"/>js 事件冒泡与事件捕获</td>
     <td><a href="https://github.com/Narutocc/functional-unit/issues/20"/>作用域问题</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Narutocc/functional-unit/issues/19"/>ajax获取的数据传递到ajax函数以外</td>
+  </tr>
 </table>
