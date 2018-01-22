@@ -50,6 +50,6 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/jQuery/issues/21"/>ajax获取的数据传递到ajax函数以外</td>
-    <td><a href="https://github.com/Narutocc/jQuery/issues/22"/>onmouseover鼠标移动层闪烁</td>
+    <td><a href="https://github.com/Narutocc/jQuery/issues/22"/>onmouseover鼠标移动时层会闪烁</td>
   </tr>
 </table>
