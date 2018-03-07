@@ -54,5 +54,6 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/jQuery/issues/23"/>正则表单验证---浏览器默认提示</td>
+    <td><a href="https://github.com/Narutocc/jQuery/issues/24"/>js更改对象中的属性名——replace</td>
   </tr>
 </table>
