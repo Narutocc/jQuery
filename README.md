@@ -41,7 +41,7 @@
   </tr>
  <tr>
     <td><a href="https://github.com/Narutocc/jQuery/issues/17">[jQueryUI] - Chosen</a></td>
-    <td><a href="https://github.com/Narutocc/jQuery/issues/25">Web Uploader</a></td>
+    <td><a href="https://github.com/Narutocc/jQuery/issues/26">Web Uploader</a></td>
   </tr>
 </table>
 <div>基础JS</div>
