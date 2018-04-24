@@ -28,6 +28,9 @@
    <td><a href="https://github.com/Narutocc/functional-unit/issues/18"/>表单Form</td>
    <td><a href="https://github.com/Narutocc/functional-unit/issues/25"/>encodeURL && encodeURLComponent</td>
   </tr>
+ <tr>
+   <td><a href="https://github.com/Narutocc/functional-unit/issues/27"/>字符串拼接onclick函数传递字符串参数</td>
+  </tr>
 </table>
 <div>插件</div>
 <table>
