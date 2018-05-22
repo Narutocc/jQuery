@@ -34,7 +34,7 @@
  </tr>
  <tr>
    <td><a href="https://github.com/Narutocc/jQuery/issues/29"/>时间戳转换</td>
-   <td><a href="https://github.com/Narutocc/functional-unit/issues/28"/>ES6实现数组去重</td>
+   <td><a href="https://github.com/Narutocc/functional-unit/issues/30"/>字节单位转换</td>
  </tr>
 </table>
 <div>插件</div>
