@@ -31,7 +31,11 @@
  <tr>
    <td><a href="https://github.com/Narutocc/functional-unit/issues/27"/>字符串拼接onclick函数传递字符串参数</td>
    <td><a href="https://github.com/Narutocc/functional-unit/issues/28"/>ES6实现数组去重</td>
-  </tr>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/Narutocc/jQuery/issues/29"/>时间戳转换</td>
+   <td><a href="https://github.com/Narutocc/functional-unit/issues/28"/>ES6实现数组去重</td>
+ </tr>
 </table>
 <div>插件</div>
 <table>
