@@ -36,6 +36,9 @@
    <td><a href="https://github.com/Narutocc/jQuery/issues/29"/>时间戳转换</td>
    <td><a href="https://github.com/Narutocc/functional-unit/issues/30"/>字节单位转换</td>
  </tr>
+ <tr>
+   <td><a href="https://github.com/Narutocc/jQuery/issues/31"/>导出/下载</td>
+ </tr>
 </table>
 <div>插件</div>
 <table>
