@@ -38,6 +38,7 @@
  </tr>
  <tr>
    <td><a href="https://github.com/Narutocc/jQuery/issues/31"/>导出/下载</td>
+   <td><a href="https://github.com/Narutocc/jQuery/issues/34"/>格式化数字（每隔3个数字添加一个逗号）</td>
  </tr>
 </table>
 <div>插件</div>
