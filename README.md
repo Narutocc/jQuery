@@ -74,3 +74,9 @@
     <td><a href="https://github.com/Narutocc/jQuery/issues/32"/>原生js的ajax请求</td>
   </tr>
 </table>
+<div>数据</div>
+<table>
+  <tr>
+    <td><a href="https://github.com/Narutocc/functional-unit/issues/35"/>move zeros——数据处理</td>
+  </tr>
+</table>
