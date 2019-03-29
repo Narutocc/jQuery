@@ -75,7 +75,7 @@
     <td><a href="https://github.com/Narutocc/jQuery/issues/36"/>同源策略</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Narutocc/jQuery/issues/37"/>总结html5新增已经废除标签</td>
+    <td><a href="https://github.com/Narutocc/jQuery/issues/37"/>总结html5新增已经废除标签（HTML5）</td>
   </tr>
 </table>
 <div>数据</div>
