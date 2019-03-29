@@ -72,6 +72,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/jQuery/issues/32"/>原生js的ajax请求</td>
+    <td><a href="https://github.com/Narutocc/jQuery/issues/36"/>同源策略</td>
   </tr>
 </table>
 <div>数据</div>
