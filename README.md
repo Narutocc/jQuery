@@ -7,12 +7,9 @@ issues | issues
 [侧边导航楼梯](https://github.com/Narutocc/functional-unit/issues/5)|[jq选中元素（table）](https://github.com/Narutocc/functional-unit/issues/6)
 [文件上传](https://github.com/Narutocc/functional-unit/issues/7)|[jQuey.ajaxSetup()](https://github.com/Narutocc/functional-unit/issues/8)
 [jq实现树状菜单](https://github.com/Narutocc/functional-unit/issues/12)|[数组自定义排序](https://github.com/Narutocc/functional-unit/issues/13)
+[下拉筛选](https://github.com/Narutocc/functional-unit/issues/14)|[排序](https://github.com/Narutocc/functional-unit/issues/15)
 
 <table>
- <tr>
-   <td><a href="https://github.com/Narutocc/functional-unit/issues/14"/>下拉筛选</td>
-   <td><a href="https://github.com/Narutocc/functional-unit/issues/15"/>排序</td>
-  </tr>
  <tr>
    <td><a href="https://github.com/Narutocc/functional-unit/issues/18"/>表单Form</td>
    <td><a href="https://github.com/Narutocc/functional-unit/issues/25"/>encodeURL && encodeURLComponent</td>
