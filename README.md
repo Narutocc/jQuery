@@ -8,12 +8,9 @@ issues | issues
 [文件上传](https://github.com/Narutocc/functional-unit/issues/7)|[jQuey.ajaxSetup()](https://github.com/Narutocc/functional-unit/issues/8)
 [jq实现树状菜单](https://github.com/Narutocc/functional-unit/issues/12)|[数组自定义排序](https://github.com/Narutocc/functional-unit/issues/13)
 [下拉筛选](https://github.com/Narutocc/functional-unit/issues/14)|[排序](https://github.com/Narutocc/functional-unit/issues/15)
+[表单Form](https://github.com/Narutocc/functional-unit/issues/18)|[encodeURL && encodeURLComponent](https://github.com/Narutocc/functional-unit/issues/25)
 
 <table>
- <tr>
-   <td><a href="https://github.com/Narutocc/functional-unit/issues/18"/>表单Form</td>
-   <td><a href="https://github.com/Narutocc/functional-unit/issues/25"/>encodeURL && encodeURLComponent</td>
-  </tr>
  <tr>
    <td><a href="https://github.com/Narutocc/functional-unit/issues/27"/>字符串拼接onclick函数传递字符串参数</td>
    <td><a href="https://github.com/Narutocc/functional-unit/issues/28"/>ES6实现数组去重</td>
