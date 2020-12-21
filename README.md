@@ -11,13 +11,8 @@ issues | issues
 [表单Form](https://github.com/Narutocc/functional-unit/issues/18)|[encodeURL && encodeURLComponent](https://github.com/Narutocc/functional-unit/issues/25)
 [字符串拼接onclick函数传递字符串参数](https://github.com/Narutocc/functional-unit/issues/27)|[ES6实现数组去重](https://github.com/Narutocc/functional-unit/issues/28)
 [时间戳转换](https://github.com/Narutocc/jQuery/issues/29)|[字节单位转换](https://github.com/Narutocc/functional-unit/issues/30)
+[导出/下载](https://github.com/Narutocc/jQuery/issues/31)|[格式化数字（每隔3个数字添加一个逗号）](https://github.com/Narutocc/jQuery/issues/34)
 
-<table>
- <tr>
-   <td><a href="https://github.com/Narutocc/jQuery/issues/31"/>导出/下载</td>
-   <td><a href="https://github.com/Narutocc/jQuery/issues/34"/>格式化数字（每隔3个数字添加一个逗号）</td>
- </tr>
-</table>
 <div>插件</div>
 <table>
   <tr>
