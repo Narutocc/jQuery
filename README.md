@@ -16,7 +16,7 @@ issues | issues
 插件
 issues | issues
 -|-|
-[jquery.cookie.js](https://github.com/Narutocc/text-share/issues/10)|[App.js](https://github.com/Narutocc/text-share/issues/11)
+[jquery.cookie.js](https://github.com/Narutocc/text-share/issues/10)|[App.js](https://github.com/Narutocc/jQuery/issues/11)
 
 
 <table>
