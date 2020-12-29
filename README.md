@@ -13,12 +13,11 @@ issues | issues
 [时间戳转换](https://github.com/Narutocc/jQuery/issues/29)|[字节单位转换](https://github.com/Narutocc/functional-unit/issues/30)
 [导出/下载](https://github.com/Narutocc/jQuery/issues/31)|[格式化数字（每隔3个数字添加一个逗号）](https://github.com/Narutocc/jQuery/issues/34)
 
-<div>插件</div>
+插件
+[jquery.cookie.js](https://github.com/Narutocc/text-share/issues/10)|[App.js](https://github.com/Narutocc/text-share/issues/11)
+
+
 <table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/10">jquery.cookie.js</a></td>
-    <td><a href="https://github.com/Narutocc/text-share/issues/11">App.js</a></td>
-  </tr>
  <tr>
     <td><a href="https://github.com/Narutocc/jQuery/issues/9">Moment.js</a></td>
     <td><a href="https://github.com/Narutocc/functional-unit/issues/16"/>daterangepicker</td>
