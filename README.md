@@ -14,6 +14,8 @@ issues | issues
 [导出/下载](https://github.com/Narutocc/jQuery/issues/31)|[格式化数字（每隔3个数字添加一个逗号）](https://github.com/Narutocc/jQuery/issues/34)
 
 插件
+issues | issues
+-|-|
 [jquery.cookie.js](https://github.com/Narutocc/text-share/issues/10)|[App.js](https://github.com/Narutocc/text-share/issues/11)
 
 
