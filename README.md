@@ -18,14 +18,9 @@ issues | issues
 -|-|
 [jquery.cookie.js](https://github.com/Narutocc/jQuery/issues/10)|[App.js](https://github.com/Narutocc/jQuery/issues/11)
 [Moment.js](https://github.com/Narutocc/jQuery/issues/9)|[daterangepicker](https://github.com/Narutocc/functional-unit/issues/16)
+[[jQueryUI] - Chosen](https://github.com/Narutocc/jQuery/issues/17)|[Web Uploader](https://github.com/Narutocc/jQuery/issues/26)
 
 
-<table>
- <tr>
-    <td><a href="https://github.com/Narutocc/jQuery/issues/17">[jQueryUI] - Chosen</a></td>
-    <td><a href="https://github.com/Narutocc/jQuery/issues/26">Web Uploader</a></td>
-  </tr>
-</table>
 <div>基础JS</div>
 <table>
   <tr>
