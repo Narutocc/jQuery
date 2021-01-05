@@ -24,13 +24,10 @@ issues | issues
 issues | issues
 -|-|
 [js 事件冒泡与事件捕获](https://github.com/Narutocc/functional-unit/issues/19)|[作用域问题](https://github.com/Narutocc/functional-unit/issues/20)
+[ajax获取的数据传递到ajax函数以外](https://github.com/Narutocc/jQuery/issues/21)|[onmouseover鼠标移动时层会闪烁](https://github.com/Narutocc/jQuery/issues/22)
 
 
 <table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/jQuery/issues/21"/>ajax获取的数据传递到ajax函数以外</td>
-    <td><a href="https://github.com/Narutocc/jQuery/issues/22"/>onmouseover鼠标移动时层会闪烁</td>
-  </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/jQuery/issues/23"/>正则表单验证---浏览器默认提示</td>
     <td><a href="https://github.com/Narutocc/jQuery/issues/24"/>replace 综合用法</td>
