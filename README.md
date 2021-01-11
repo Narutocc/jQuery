@@ -27,13 +27,9 @@ issues | issues
 [ajax获取的数据传递到ajax函数以外](https://github.com/Narutocc/jQuery/issues/21)|[onmouseover鼠标移动时层会闪烁](https://github.com/Narutocc/jQuery/issues/22)
 [正则表单验证---浏览器默认提示](https://github.com/Narutocc/jQuery/issues/23)|[replace 综合用法](https://github.com/Narutocc/jQuery/issues/24)
 [原生js的ajax请求](https://github.com/Narutocc/jQuery/issues/32)|[同源策略](https://github.com/Narutocc/jQuery/issues/36)
+[总结html5新增、已经废除标签（HTML5）](https://github.com/Narutocc/jQuery/issues/37)
 
 
-<table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/jQuery/issues/37"/>总结html5新增、已经废除标签（HTML5）</td>
-  </tr>
-</table>
 <div>数据</div>
 <table>
   <tr>
